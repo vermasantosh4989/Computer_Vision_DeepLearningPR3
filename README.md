@@ -248,11 +248,11 @@ The same 100-frame webcam sample is used for the three measurements.
 
 ## Original Image
 
-![Original Project Image](screenshots/project_original.png)
+![Original Project Image](images/project_original.png)
 
 ## Grayscale Image
 
-![Grayscale Project Image](screenshots/project_grayscale.png)
+![Grayscale Project Image](images/project_grayscale.png)
 
 
 > Additional screenshots can be added to the `screenshots/` folder after capturing the YuNet webcam output, YOLOv8 output, unified pipeline, and FPS benchmark chart.
