@@ -78,7 +78,7 @@ Morphological opening was also used as a light preprocessing technique for noise
 
 ## 1. Morphology
 
-![Morphological Operations](output/Morpholgy.png)
+![Morphological Operations](output/Morphology.png)
 
 **Summary:** Morphological operations such as erosion, dilation, opening, and closing were applied to process image regions and remove small noise.  
 **Result:** Different kernel shapes and sizes were compared to observe their effect on the image.
